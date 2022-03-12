@@ -1,2 +1,4 @@
 # git_test
-My first github repo (made following @TheOdinProject's foundations course)
+
+My first github repo. 
+I made it following @TheOdinProject foundations course.
